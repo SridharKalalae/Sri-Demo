@@ -1,1 +1,2 @@
 Trying to add all the git commands to push the file to remote repo
+git status
