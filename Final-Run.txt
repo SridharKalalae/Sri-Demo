@@ -1,2 +1,3 @@
 Trying to add all the git commands to push the file to remote repo
 git status
+Adding more infor on the cars fetures, like had BMW etc...
